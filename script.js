@@ -1,4 +1,4 @@
-/* Visual playback controls only: no audio files were supplied. */
+
 (() => {
   'use strict';
   let playing = null;
